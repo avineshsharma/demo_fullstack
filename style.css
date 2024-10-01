@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+h1 {
+border: 20px;
+background-color: aqua;
+}
+li{
+    color: blanchedalmond;
+}
+image{
+    size: 50px;
+    height: 20px;
+    width: 10px;
+}
