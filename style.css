@@ -8,10 +8,10 @@ background-color: rgb(129, 238, 13);
 li{
     color: blanchedalmond;
 }
-image{
-    size: 50px;
-    height: 20px;
-    width: 10px;
+img {
+    /* size: 50px; */
+    height: 100px;
+    width: 100px;
 }
 .box{
     border: 10px;
