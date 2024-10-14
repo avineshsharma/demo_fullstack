@@ -1,9 +1,9 @@
 body{
-    background-color: black;
+    background-color: red;
 }
 h1 {
 border: 20px;
-background-color: aqua;
+background-color: rgb(129, 238, 13);
 }
 li{
     color: blanchedalmond;
@@ -12,4 +12,8 @@ image{
     size: 50px;
     height: 20px;
     width: 10px;
+}
+.box{
+    border: 10px;
+    border-color: blue;
 }
