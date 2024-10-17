@@ -1,19 +1,49 @@
 body{
-    background-color: red;
+    background-color: skyblue;
 }
 h1 {
 border: 20px;
 background-color: rgb(129, 238, 13);
 }
 li{
-    color: blanchedalmond;
+    color: rgb(26, 17, 2);
 }
 img {
     /* size: 50px; */
-    height: 100px;
-    width: 100px;
+    height: 276px;
+    width: 300px;
+border: 50px;
+border-color: aquamarine;
+border-radius: 25px;
 }
 .box{
     border: 10px;
     border-color: blue;
+}
+button{
+    display: flow-root;
+    height: 30px;
+    width: 60px;
+    border-radius: 20px;
+background-color: cyan;
+}
+/* p {
+
+    border: 20px;
+    border-color: black;
+}
+ */
+ul{
+    display: inline-block ;
+    border: 20px;
+    background: rgb(238, 222, 3);
+    height: 80px;
+    width: 70px;
+
+} 
+.box{
+    border: 20px;
+    background: khaki;
+    display:flexbox;
+
 }
