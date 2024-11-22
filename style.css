@@ -1,9 +1,27 @@
 body{
+    /* height: auto; */
     background-color: skyblue;
 }
 h1 {
-border: 20px;
-background-color: rgb(129, 238, 13);
+    height: auto;
+text-align: center;
+text-shadow: 2cap;
+border:none;
+box-shadow: none;
+background-color:rgb(248, 147, 5);
+}
+h2 { 
+
+    background-color: aliceblue;
+    border-color: aliceblue;
+    background-origin: padding-box;
+    border-radius: 2px;
+    margin-top: auto;
+    position: relative;
+    top:-22px;
+    
+text-align: center;
+
 }
 li{
     color: rgb(26, 17, 2);
@@ -12,10 +30,14 @@ img {
     /* size: 50px; */
     height: 276px;
     width: 300px;
-border: 50px;
-border-color: aquamarine;
-border-radius: 25px;
+   border: 50px;
+   border-color: aquamarine;
+    border-radius: 80px;
+    border-image-outset: 20px;
 }
+
+
+
 .box{
     border: 10px;
     border-color: blue;
@@ -26,6 +48,9 @@ button{
     width: 60px;
     border-radius: 20px;
 background-color: cyan;
+}
+.button{
+    text-align: center;
 }
 /* p {
 
